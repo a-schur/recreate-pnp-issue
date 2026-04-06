@@ -6,7 +6,7 @@
     "preinstall": "npx --yes only-allow pnpm"
   },
   "devDependencies": {
-    "typescript": "^5.0.0"
+    "typescript": "^6.0.2"
   },
   "pnpm": {
     "onlyBuiltDependencies": []
